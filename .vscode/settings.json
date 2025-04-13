@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.html": "html",
+    "string_view": "cpp",
+    "cmath": "cpp"
+  }
+}
